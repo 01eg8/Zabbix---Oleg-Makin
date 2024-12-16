@@ -74,18 +74,18 @@
 
 ### Задание 1
 
-![img]()
-![img]()
+![img](https://github.com/01eg8/Zabbix---Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-16%2015-36-28.png)
+![img](https://github.com/01eg8/Zabbix---Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-16%2015-42-05.png)
 
 ### Задание 2
 
-![img]()
-![img]()
-![img]()
-![img]()
+![img](https://github.com/01eg8/Zabbix---Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-16%2015-42-56.png)
+![img](https://github.com/01eg8/Zabbix---Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-16%2015-54-09.png)
+![img](https://github.com/01eg8/Zabbix---Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-16%2015-56-16.png)
+![img](https://github.com/01eg8/Zabbix---Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-16%2015-58-39.png)
 
 
 ### Задание 3
 
-![img]()
+![img](https://github.com/01eg8/Zabbix---Oleg-Makin/blob/main/img/Screenshot%20from%202024-12-16%2018-51-28.png)
 
